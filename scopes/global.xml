@@ -1,0 +1,26 @@
+<active>true</active>
+<enforce_license>none</enforce_license>
+<js_level>traditional</js_level>
+<licensable>false</licensable>
+<license_model>none</license_model>
+<logo/>
+<name>Global</name>
+<private>false</private>
+<restrict_table_access>false</restrict_table_access>
+<runtime_access_tracking/>
+<scope>global</scope>
+<scoped_administration>false</scoped_administration>
+<short_description>Global application scope</short_description>
+<source>global</source>
+<sys_class_name>sys_scope</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2014-06-09 20:25:13</sys_created_on>
+<sys_id>global</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2014-06-09 20:25:12</sys_updated_on>
+<template/>
+<trackable>false</trackable>
+<vendor/>
+<vendor_prefix/>
+<version/>
